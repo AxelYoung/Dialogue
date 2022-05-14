@@ -1,0 +1,2 @@
+[] Yes / No Functionality
+[] Smooth level transition
